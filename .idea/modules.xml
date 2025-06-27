@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan/Pertemuan.iml" filepath="$PROJECT_DIR$/Pertemuan/Pertemuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan 2/Pertemuan 2.iml" filepath="$PROJECT_DIR$/Pertemuan 2/Pertemuan 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan 3/Pertemuan 3.iml" filepath="$PROJECT_DIR$/Pertemuan 3/Pertemuan 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan 4/Pertemuan 4.iml" filepath="$PROJECT_DIR$/Pertemuan 4/Pertemuan 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan 5/Pertemuan 5.iml" filepath="$PROJECT_DIR$/Pertemuan 5/Pertemuan 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan 6/Pertemuan 6.iml" filepath="$PROJECT_DIR$/Pertemuan 6/Pertemuan 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan 7/Pertemuan 7.iml" filepath="$PROJECT_DIR$/Pertemuan 7/Pertemuan 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan 8/Pertemuan 8.iml" filepath="$PROJECT_DIR$/Pertemuan 8/Pertemuan 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praktikum.iml" filepath="$PROJECT_DIR$/Praktikum.iml" />
+    </modules>
+  </component>
+</project>
